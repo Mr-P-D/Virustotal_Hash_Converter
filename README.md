@@ -1,9 +1,9 @@
-# Virustotal_Hash_Converter
-Virustotal_Hash_Converter (Convert Hashes to SHA  1)
+Virustotal_Hash_Converter (Convert Hashes to Other formats using Virustotal)
 
-Create a file name hash_input.txt and place your hashes in the file
+Create a file name hash_input.txt and place your hashes in the file.  
+Note that you are only limited to 4 Searches per minute with free Virustotal API.  
 
-Usage:
+Usage:  
 python Hash_Converter_SHA1.py
 
 Example:         
