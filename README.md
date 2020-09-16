@@ -1,4 +1,4 @@
-<h1> Virustotal_Hash_Converter (Convert Hashes to Other formats using Virustotal) <h1>
+<h3> Virustotal_Hash_Converter (Convert Hashes to Other formats using Virustotal) </h3>
 
 > Create a file name hash_input.txt and place your hashes in the file.  
 Note that you are only limited to 4 Searches per minute with free Virustotal API.  
